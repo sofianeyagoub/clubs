@@ -51,4 +51,4 @@ This app uses:
 
 ## Redux Architecture
 
-# State Structure
+### State Structure
