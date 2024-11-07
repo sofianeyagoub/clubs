@@ -52,3 +52,27 @@ This app uses:
 ## Redux Architecture
 
 ### State Structure
+
+1. **players: Holds player information, including name, jersey number, and club history.**
+2. **clubs: Contains information on each club, including ID and name.**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
