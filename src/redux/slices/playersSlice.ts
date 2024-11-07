@@ -1,4 +1,3 @@
-// src/redux/slices/playersSlice.ts
 import { createSlice, PayloadAction } from '@reduxjs/toolkit';
 import { Player, ClubHistoryEntry } from '../../models/Player';
 import { PlayersState } from '../Types';
