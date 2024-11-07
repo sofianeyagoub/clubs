@@ -56,23 +56,7 @@ This app uses:
 1. **players: Holds player information, including name, jersey number, and club history.**
 2. **clubs: Contains information on each club, including ID and name.**
 
+### Selectors
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
+1. **selectPlayersById: Fetch a player by their unique ID.**
+2. **selectClubsById: Fetch a club by its unique ID.**
