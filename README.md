@@ -22,5 +22,17 @@ This app uses:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/sofianeyagoub/clubs.git
+   cd clubs
+2. **Install dependencies:**
+   ```bash
+   yarn install
+3. **Install iOS dependencies (MacOS only):**
+   ```bash
+   cd ios
+   pod install
+   cd ..
+3. **Run the app:**
+   ```bash
+   npx react-native run-android
+   npx react-native run-ios
