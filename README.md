@@ -48,3 +48,7 @@ This app uses:
 1. **Home: Displays an overview of clubs and players.**
 2. **ClubDetails: Displays details about a selected club and its players.**
 3. **PlayerHistory: Shows a player’s club history across different seasons.**
+
+## Redux Architecture
+
+# State Structure
